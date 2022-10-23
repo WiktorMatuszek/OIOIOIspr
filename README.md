@@ -7,6 +7,8 @@ sudo sysctl kernel.perf_event_paranoid=-1
 
 albo ustawić analogiczną zmienną w `/etc/sysctl.conf`
 
+Wymaga zainstalowanego valgrinda 
+
 Skrypt wykorzystuje program SIO2Jail, którego źródła są dostępne
 na licencji MIT pod adresem: 
 
