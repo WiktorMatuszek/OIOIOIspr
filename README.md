@@ -1,6 +1,11 @@
 # OIOIOIspr
 Sprawdzarka zadan pod katem szybkosci na oiowej sprawdzarce, objetosci pamieciowej, wyciekow pamieci  
 
+Program odpalamy komendą
+./weryfikuj.sh
+
+następnie wpisujemy nazwę jaką mają testy
+
 Przed pierwszym uruchomieniem nalezy wpisac w terminal:
 
 sudo sysctl kernel.perf_event_paranoid=-1
